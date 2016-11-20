@@ -57,8 +57,7 @@ Way less scrolling. So much more convenient!
 
 This led me to look into some other, less verbose ways to view the log. I found: 
 
-First Header  | Second Header
-------------- | -------------
+
 %h            | abbreviated hash [seven digits only, on my machine]
 %ar           | commit date
 %s            | subject [the commit message]
