@@ -5,25 +5,27 @@ thumbnail-path: "img/blocflix.png"//todo
 short-description: DreamLab.io is a landing page to advertise a forthcoming web app where users can track their dreams and see dream trends. 
 
 ---
-
+<!-- 
 {:.center}
 ![]({{ site.baseurl }}/img/blocflix.png)
-
+ -->
 ## Explanation
 
-DreamLab is a forthcoming dream-tracking application from cchange, a digital marketing agency.  A user logs on every morning and writes down what they dreamed about last night. They can also read other users' dreams, and respond to them with text, still images, or gifs. 
+DreamLab was a forthcoming social dream-tracking application from c|change, a digital marketing agency.  A user logs on every morning and writes down what they dreamed about last night. They can also read other users' dreams, and respond to them with text, still images, or gifs. 
 
 The Dreamlab landing page was built as a stopgap to collect user information and drum up interest until the real application is finished. 
 
 ## Problem
 
-DreamLab was set for release in December 2016. However, back in June 2016, the cchange development team was having a party for its clients, and the site was nowhere near ready. 
+DreamLab was set for release in December 2016. However, back in June 2016, the c|change development team was having a party for its clients, and the site was nowhere near ready. We wanted to have something to present that showed our idea, even though it was still in progress. 
 
 ## Solution
 
-We built this landing page to collect email addresses from interested parties and build buzz around the project. The mail form feeds into a MailChimp list, which we'll use to notify everyone who showed an initial interest after the final application is finished. 
+We built this landing page to collect email addresses from interested parties and build buzz around the project. The mail form feeds into a MailChimp list, which we'll use to notify everyone who showed an initial interest after the final application is complete. 
 
-We already had a brand identity because our print designers had come up with a series of illustrated postcards to send to friends of the agency. We incorporated the tooth, the bunny, and the flying anvils, along with the playful rounded font, into a fairly lightweight landing page with a quick and functional Mailchimp integration. The animation is mostly CSS with a single gif [the bunny, whose bouncing ears couldn't really be done in quickly in CSS]. 
+We already had a brand identity, because our print designers had come up with a series of illustrated postcards to send to friends of the agency. We incorporated the tooth, the bunny, and the flying anvils, along with the playful rounded font, into a fairly lightweight landing page with a quick and functional Mailchimp integration. The animation is mostly CSS with a single gif [the bunny, whose bouncing ears couldn't really be done in quickly in CSS]. 
+
+A simple rand() function determines which of the elements display on page load. 
 
 ## Results
 
