@@ -1,6 +1,6 @@
 // Typography
-$font-family-main: 'Lato', Helvetica, Arial, sans-serif;
-$font-family-headings: 'Abril Fatface', Georgia, serif, cursive;
+$font-family-main: 'Questrial', Helvetica, Arial, sans-serif;
+$font-family-headings: 'Montserrat', Georgia, serif, cursive;
 $font-size: 1.25em;
 
 // Padding
@@ -9,17 +9,17 @@ $padding-small: 5%;
 $padding-x-small: 3%;
 
 // Brand colours
-$brand-color: #fff;
-$background-color: #fff;
+$brand-color: #000;
+$background-color: #000;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
 // Typography colours
-$text-color: #4a4a4a;
+$text-color: #e1e1e1;
 $link-color: #0070BB;
-$selection-color: #D4D4D4; // visible when highlighting text
+$selection-color: #D4D4D4; //highlight
 
 // Header colours
-$header-link-color: #383838;
+$header-link-color: #0070bb;
 
 // Feature image for articles
 $feature-image-text-color: #fff;
