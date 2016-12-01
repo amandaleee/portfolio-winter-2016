@@ -1,14 +1,14 @@
 ---
 layout: post
 title: DreamLab.io
-thumbnail-path: "img/blocflix.png"//todo
+thumbnail-path: "img/dreamlab.png"
 short-description: DreamLab.io is a landing page to advertise a forthcoming web app where users can track their dreams and see dream trends. 
 
 ---
-<!-- 
+
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
- -->
+![]({{ site.baseurl }}/img/dreamlab.png)
+
 ## Explanation
 
 DreamLab was a forthcoming social dream-tracking application from c|change, a digital marketing agency.  A user logs on every morning and writes down what they dreamed about last night. They can also read other users' dreams, and respond to them with text, still images, or gifs. 
@@ -29,7 +29,7 @@ A simple rand() function determines which of the elements display on page load.
 
 ## Results
 
-During the party, we got 15 signups, which is over a quarter of the attendees who were clients. 
+During the party, we got 15 signups, which is over a quarter of the client attendees. 
 
 ## Conclusion
 

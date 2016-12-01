@@ -1,12 +1,12 @@
 ---
 layout: post
 title: GiveForward 
-thumbnail-path: "img/blocflix.png" //todo
+thumbnail-path: "img/giveforward.png" 
 short-description: GiveForward is the first place to turn when you or a loved one is in need. 
 ---
-<!-- 
+
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png) -->
+![]({{ site.baseurl }}/img/giveforward.png)
 
 ## Explanation
 
@@ -27,9 +27,9 @@ During 2014-2015, GF underwent a major redesign and replatforming, converting a 
 
 ## Results
 
-During my time at GiveForward, [lol omg what goes here]
+During the entire duration of GiveForward's existence, the platform helped users to raise almost $200 million. 
 
 
 ## Conclusion
 
- [[lol omg sames]]
+I'm honored and proud to have worked with this team of brilliant and conscientious people on a product that's helped so many users.
